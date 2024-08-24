@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width="300" align="right" src="https://res.lengshanyun.top/images/avatar.jpg/"/>
+<img width="300" align="right" src="https://github.com/CoreStudioLengShan/CoreStudioLengShan/raw/main/img/avatar.jpg"/>
 
 你好~ 这里是LengShan_, 你可以叫我冷山. 现在高三.
 
@@ -16,4 +16,4 @@
 
 正在学习中,有事请通过邮箱联系我 [corestd@qq.com](mailto:corestd@qq.com)
 
-![Python](https://img.shields.io/badge/-Python-%235c5c5c) ![C++](https://img.shields.io/badge/-C++-%238c37db) ![Node.js](https://img.shields.io/badge/-Node.js-%23ea63a7) ![JavaScript](https://img.shields.io/badge/-JavaScript-%239ac8f6)
+![.NET](https://img.shields.io/badge/-Python-%235c5c5c) ![C#](https://img.shields.io/badge/-C++-%238c37db) ![MTF](https://img.shields.io/badge/-Node.js-%23ea63a7) ![ACGN](https://img.shields.io/badge/-JavaScript-%239ac8f6)
