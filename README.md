@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width="300" align="right" src="https://github.com/CoreStudioLengShan/CoreStudioLengShan/raw/main/img/avatar.jpg"/>
+<img width="300" align="right" src="https://github.com/CoreStudioLengShan/CoreStudioLengShan/raw/main/avatar.jpg"/>
 
 你好~ 这里是LengShan_, 你可以叫我冷山. 现在高三.
 
